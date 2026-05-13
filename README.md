@@ -1,7 +1,6 @@
 <div align="center">
-  
-![xitges](header.svg)
 
+![xitges](header.svg?v=3)
 </div>
 <!--
 **xitges/xitges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
