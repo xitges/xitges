@@ -1,6 +1,6 @@
-<svg width="416" height="104" xmlns="http://www.w3.org/2000/svg">
+<svg width="516" height="84" xmlns="http://www.w3.org/2000/svg">
     <text
-    x="208" y="38"
+    x="258" y="38"
     font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
     font-size="32"
     font-weight="600"
@@ -10,7 +10,7 @@
   >Github.</text>
 
    <text
-    x="208" y="56"
+    x="258" y="56"
     font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
     font-size="16"
     font-weight="600"
@@ -19,5 +19,6 @@
     dominant-baseline="auto"
   >xitges</text>
 
-    <line x1="10" y1="66" x2="406" y2="66" stroke="#000000" stroke-width="1"/>
+
+    <line x1="0" y1="66" x2="516" y2="66" stroke="#000000" stroke-width="1"/>
 </svg>
