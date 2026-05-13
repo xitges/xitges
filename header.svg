@@ -23,19 +23,17 @@
     <line x1="100" y1="66" x2="820" y2="66" stroke="#000000" stroke-width="1"/>
 
 <text
-  x="60" y = "92"
+  x="40" y = "92"
   font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
   font-size="16"
   font-weight="600"
   fill="#000000"
   dominant-baseline="auto"
 >
-  <a href="https://github.com/xitges/studio">
-    <tspan x="60" dy="0">no 1. DAW</tspan>
-  </a>
-  <a href="https://github.com/xitges/plugin">
-    <tspan x="60" dy="22">no 2. Plugin</tspan>
-  </a>
+
+    <tspan x="40" dy="0">no 1. DAW</tspan>
+    <tspan x="40" dy="22">no 2. Plugin</tspan>
+
 </text>
     
     
