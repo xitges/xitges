@@ -1,6 +1,6 @@
-<svg width="516" height="84" xmlns="http://www.w3.org/2000/svg">
+<svg width="720" height="128" xmlns="http://www.w3.org/2000/svg">
     <text
-    x="258" y="38"
+    x="360" y="38"
     font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
     font-size="32"
     font-weight="600"
@@ -10,7 +10,7 @@
   >Github.</text>
 
    <text
-    x="258" y="56"
+    x="360" y="56"
     font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
     font-size="16"
     font-weight="600"
@@ -20,5 +20,25 @@
   >xitges</text>
 
 
-    <line x1="0" y1="66" x2="516" y2="66" stroke="#000000" stroke-width="1"/>
+    <line x1="0" y1="66" x2="720" y2="66" stroke="#000000" stroke-width="1"/>
+
+       <text
+    x="10" y="90"
+    font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
+    font-size="16"
+    font-weight="600"
+    fill="#000000"
+    dominant-baseline="auto"
+  >no 1. DAW</text>
+           <text
+    x="10" y="110"
+    font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
+    font-size="16"
+    font-weight="600"
+    fill="#000000"
+
+    dominant-baseline="auto"
+  >no 2. Plugin</text>
+    
+    
 </svg>
