@@ -342,8 +342,7 @@ text-anchor="middle" transform="rotate(90 ,276, 256)">Python</text>
   <line x1="510" y1="120" x2="560" y2="90" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
   <line x1="340" y1="390" x2="430" y2="460" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
 
-  <!-- 랜덤한 위치에 생성된 노드(Node)들 -->
-  <circle cx="100" cy="250" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  <!-- <circle cx="100" cy="250" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="156" cy="193" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="198" cy="267" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="130" cy="301" r="3" fill="#1a1612" fill-opacity="0.6"/>
@@ -358,7 +357,6 @@ text-anchor="middle" transform="rotate(90 ,276, 256)">Python</text>
   <circle cx="344" cy="241" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="340" cy="390" r="3" fill="#1a1612" fill-opacity="0.6"/>
   
-  <!-- 수정된 부분: 노드의 cx 좌표도 선의 끝점에 맞춰 195에서 225로 변경 -->
   <circle cx="225" cy="395" r="3" fill="#1a1612" fill-opacity="0.6"/>
   
   <circle cx="268" cy="391" r="3" fill="#1a1612" fill-opacity="0.6"/>
@@ -370,7 +368,7 @@ text-anchor="middle" transform="rotate(90 ,276, 256)">Python</text>
   <circle cx="510" cy="120" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="490" cy="380" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="560" cy="90" r="3" fill="#1a1612" fill-opacity="0.6"/>
-  <circle cx="430" cy="460" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  <circle cx="430" cy="460" r="3" fill="#1a1612" fill-opacity="0.6"/> -->
 </g>
 
     
