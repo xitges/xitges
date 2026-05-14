@@ -1,6 +1,10 @@
 <div align="center">
-
-[![xitges](header.svg?v=3)](https://github.com/xitges)
+  <a href="https://github.com/xitges">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg?v=1">
+      <img src="header.svg?v=3">
+    </picture>
+  </a>
 </div>
 <!--
 **xitges/xitges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
