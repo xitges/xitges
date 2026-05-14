@@ -219,7 +219,7 @@
      
   </g>
      <!-- 트리 -->
-<g transform="translate(35,80)">
+<g transform="translate(35,500)">
 <text x="90" y="180" font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
     font-weight="500" font-size="22" fill-opacity="0.85"
       letter-spacing="2" fill="#b4452a"></text>
@@ -250,7 +250,7 @@ text-anchor="middle" transform="rotate(90 ,276, 256)">Python</text>
   <circle cx="480" cy="315" r="3" fill="#1a1612" fill-opacity="0.6"/>
 </g>
 
-<g transform="translate(35,400)">
+<g transform="translate(35,80)">
     
 <!-- <text x="90" y="180" font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
     font-weight="500" font-size="22" fill-opacity="0.85"
@@ -269,8 +269,8 @@ text-anchor="middle" transform="rotate(90 ,276, 256)">Python</text>
   <circle cx="480" cy="235" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="480" cy="315" r="3" fill="#1a1612" fill-opacity="0.6"/> -->
 
-  <!-- 무질서하게 뻗어나가는 엣지(Edge)들 -->
-  <line x1="100" y1="250" x2="156" y2="193" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+
+<line x1="100" y1="250" x2="156" y2="193" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
   <line x1="100" y1="250" x2="198" y2="267" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
   <line x1="100" y1="250" x2="130" y2="301" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
   <line x1="156" y1="193" x2="180" y2="127" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
@@ -283,7 +283,10 @@ text-anchor="middle" transform="rotate(90 ,276, 256)">Python</text>
   <line x1="244" y1="177" x2="311" y2="195" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
   <line x1="245" y1="250" x2="344" y2="241" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
   <line x1="267" y1="307" x2="340" y2="390" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
-  <line x1="208" y1="326" x2="195" y2="395" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+  
+  <!-- 수정된 부분: 역행하던 선의 x2 좌표를 195에서 225로 변경하여 위상 정렬 만족 -->
+  <line x1="208" y1="326" x2="225" y2="395" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+  
   <line x1="193" y1="364" x2="268" y2="391" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
   <line x1="193" y1="364" x2="210" y2="411" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
   <line x1="311" y1="195" x2="358" y2="178" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
@@ -310,7 +313,10 @@ text-anchor="middle" transform="rotate(90 ,276, 256)">Python</text>
   <circle cx="311" cy="195" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="344" cy="241" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="340" cy="390" r="3" fill="#1a1612" fill-opacity="0.6"/>
-  <circle cx="195" cy="395" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  
+  <!-- 수정된 부분: 노드의 cx 좌표도 선의 끝점에 맞춰 195에서 225로 변경 -->
+  <circle cx="225" cy="395" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  
   <circle cx="268" cy="391" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="210" cy="411" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="358" cy="178" r="3" fill="#1a1612" fill-opacity="0.6"/>
