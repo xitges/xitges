@@ -212,35 +212,31 @@
       font-family="'Apple SD Gothic Neo', -apple-system, sans-serif"
       font-size="19" font-weight="400" letter-spacing="3"
       fill="#b4452a" fill-opacity="0.75"
-      transform="rotate(-90, 394.92, 55)"
     >DAW</text>
     <text
       x="350.92" y="185"
       font-family="'Apple SD Gothic Neo', -apple-system, sans-serif"
       font-size="19" font-weight="400" letter-spacing="3"
       fill="#b4452a" fill-opacity="0.75"
-      transform="rotate(-90, 394.92, 190)"
+
     >Synth Plugin</text> 
     <text
       x="380.92" y="375"
       font-family="'Apple SD Gothic Neo', -apple-system, sans-serif"
       font-size="19" font-weight="400" letter-spacing="3"
       fill="#b4452a" fill-opacity="0.75"
-      transform="rotate(-90, 394.92, 380)"
     >Quant</text> 
     <text
-      x="246.50" y="170"
+      x="246.50" y="140"
       font-family="'Apple SD Gothic Neo', -apple-system, sans-serif"
       font-size="19" font-weight="400" letter-spacing="3"
       fill="#0e0c09" fill-opacity="0.80"
-      transform="rotate(-90, 296.50, 178)"
     >C++/CMake</text> 
     <text
       x="280.50" y="432"
       font-family="'Apple SD Gothic Neo', -apple-system, sans-serif"
       font-size="19" font-weight="400" letter-spacing="3"
       fill="#0e0c09" fill-opacity="0.80"
-      transform="rotate(-90, 296.5, 440)"
     >Python</text>
     <text
       x="530.00" y="342"
