@@ -228,7 +228,7 @@
     >Quant</text>
     -->
 
-      
+      <!-- 트리 -->
   </g>
 <g transform="translate(30,80)">
 <text x="90" y="180" font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
@@ -248,6 +248,26 @@
   <circle cx="480" cy="235" r="3" fill="#1a1612" fill-opacity="0.6"/>
   <circle cx="480" cy="315" r="3" fill="#1a1612" fill-opacity="0.6"/>
 </g>
+
+<g transform="translate(30,370)">
+<text x="90" y="180" font-family="'Apple SD Gothic Neo', 'AppleSDGothicNeo', -apple-system, sans-serif"
+    font-weight="500" font-size="22" fill-opacity="0.85"
+      letter-spacing="2" fill="#b4452a"></text>
+  <line x1="133.08" y1="190.38" x2="266.92" y2="134.62" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+  <line x1="133.08" y1="209.62" x2="266.92" y2="265.38" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+  <line x1="314.46" y1="119.85" x2="455.54" y2="90.15" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+  <line x1="314.46" y1="130.15" x2="455.54" y2="159.85" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+  <line x1="314.46" y1="269.85" x2="455.54" y2="240.15" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+  <line x1="314.46" y1="280.15" x2="455.54" y2="309.85" stroke="#1a1612" stroke-width="0.6" stroke-opacity="0.6"/>
+  <circle cx="110" cy="200" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  <circle cx="290" cy="125" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  <circle cx="290" cy="275" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  <circle cx="480" cy="85" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  <circle cx="480" cy="165" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  <circle cx="480" cy="235" r="3" fill="#1a1612" fill-opacity="0.6"/>
+  <circle cx="480" cy="315" r="3" fill="#1a1612" fill-opacity="0.6"/>
+</g>
+
     
     
 </svg>
